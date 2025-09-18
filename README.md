@@ -1,4 +1,6 @@
-Data Cleaning & Quality Report
+                                                                                                    Data Cleaning & Quality Report 
+
+
 📌 Overview
 
 This project demonstrates a complete data cleaning workflow using a messy dataset. The goal is to detect and handle missing values, duplicates, and outliers, then generate a Data Quality Report to ensure dataset reliability.
