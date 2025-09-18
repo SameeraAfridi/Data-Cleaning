@@ -1,4 +1,4 @@
-                                                                                                    Data Cleaning & Quality Report 
+Data Cleaning & Quality Report 
 
 
 📌 Overview
